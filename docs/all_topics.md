@@ -1,0 +1,44 @@
+All topics I want to learn
+
+TODO: Put USACO links and contents
+
+- Trees
+    - Small to Large
+    - HLD
+    - DFS Tree
+- Math
+    - Expected Value
+    - Number Theory
+    - Divisibility
+    - Probability
+    - Combinatorics
+    - Game Theory
+- Geometry
+    - Dot and Cross product
+    - Convex Hull
+- String
+    - Hash
+    - Suffix Array
+    - Z-algo
+    - KMP
+- Dynamic Programming
+    - Profile DP
+    - Digit DP
+    - DP on Tree
+- Graph
+    - Review Dijkstra, Floyd Warhsall, Bellman Ford
+- DSA
+    - DSU
+    - Segtree
+    - LCA
+    - Binary Search
+    - Ternary Search
+    - Prefix Sum
+    - Two Pointers
+    - Sliding Window
+- Other
+    - Simulation
+    - Constructive
+    - SQRT Decomposition + MO
+    - Centroid
+    - 
